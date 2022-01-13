@@ -1,0 +1,13 @@
+tqdm
+h5py
+numba
+scipy
+sklearn
+xgboost
+networkx
+networkit
+importlib
+dgl==0.6.0
+tensorboard
+torch==1.7.0
+snap-stanford
